@@ -1,0 +1,98 @@
+DATASET	#pares	Pearson r
+2012.input.MSRpar.txt 	750 	0.5063
+2012.input.MSRvid.txt 	750 	0.334
+2012.input.OnWN.txt 	750 	0.5856
+2012.input.SMTeuroparl.txt 	459 	0.4876
+2012.input.SMTnews.txt 	399 	0.5085
+2013.input.FNWN.txt 	189 	0.2743
+2013.input.headlines.txt 	750 	0.6343
+2013.input.OnWN.txt 	561 	0.3408
+2013.input.SMT.txt 	750 	0.3073
+2014.input.deft-forum.txt 	450 	0.39
+2014.input.deft-news.txt 	300 	0.61
+2014.input.headlines.txt 	750 	0.589
+2014.input.images.txt 	750 	0.534
+2014.input.OnWN.txt 	750 	0.5201
+2014.input.tweet-news.txt 	750 	0.7319
+2015.input.answers-forums.txt 	375 	0.5171
+2015.input.answers-students.txt 	750 	0.6258
+2015.input.belief.txt 	375 	0.6174
+2015.input.headlines.txt 	750 	0.6333
+2015.input.images.txt 	750 	0.6345
+2016.input.answer-answer.txt 	254 	0.3515
+2016.input.headlines.txt 	249 	0.6423
+2016.input.plagiarism.txt 	230 	0.7453
+2016.input.postediting.txt 	244 	0.7912
+2016.input.question-question.txt 	209 	0.1301
+Promedio ponderado todos	13294 	0.532
+Promedio ponderado 2012 	3108 	0.4814 	Mejor en SemEval:	0.6773 UKP
+Promedio ponderado 2013 	2250 	0.4219 	Mejor en SemEval:	0.6181 UMBC
+Promedio ponderado 2014 	3750 	0.5706 	Mejor en SemEval:	0.7610 DLS@CU
+Promedio ponderado 2015 	3000 	0.6152 	Mejor en SemEval:	0.8015 DLS@CU
+Promedio ponderado 2016 	1186 	0.5404 	Mejor en SemEval:	0.7781 Samsung Poland NLP
+--------------- <function GEN_monge_elkan at 0x0AB133B0> , <function lex_sim_jaccard at 0x0AB01EB0> 
+
+DATASET	#pares	Pearson r
+2012.input.MSRpar.txt 	750 	0.5062
+2012.input.MSRvid.txt 	750 	0.5372
+2012.input.OnWN.txt 	750 	0.6026
+2012.input.SMTeuroparl.txt 	459 	0.5218
+2012.input.SMTnews.txt 	399 	0.4949
+2013.input.FNWN.txt 	189 	0.3185
+2013.input.headlines.txt 	750 	0.6222
+2013.input.OnWN.txt 	561 	0.2714
+2013.input.SMT.txt 	750 	0.3185
+2014.input.deft-forum.txt 	450 	0.389
+2014.input.deft-news.txt 	300 	0.5893
+2014.input.headlines.txt 	750 	0.5914
+2014.input.images.txt 	750 	0.5899
+2014.input.OnWN.txt 	750 	0.4551
+2014.input.tweet-news.txt 	750 	0.7567
+2015.input.answers-forums.txt 	375 	0.5372
+2015.input.answers-students.txt 	750 	0.5439
+2015.input.belief.txt 	375 	0.6302
+2015.input.headlines.txt 	750 	0.6412
+2015.input.images.txt 	750 	0.6679
+2016.input.answer-answer.txt 	254 	0.2855
+2016.input.headlines.txt 	249 	0.6256
+2016.input.plagiarism.txt 	230 	0.7302
+2016.input.postediting.txt 	244 	0.7834
+2016.input.question-question.txt 	209 	0.0799
+Promedio ponderado todos	13294 	0.5392
+Promedio ponderado 2012 	3108 	0.5378 	Mejor en SemEval:	0.6773 UKP
+Promedio ponderado 2013 	2250 	0.408 	Mejor en SemEval:	0.6181 UMBC
+Promedio ponderado 2014 	3750 	0.5724 	Mejor en SemEval:	0.7610 DLS@CU
+Promedio ponderado 2015 	3000 	0.6092 	Mejor en SemEval:	0.8015 DLS@CU
+Promedio ponderado 2016 	1186 	0.5093 	Mejor en SemEval:	0.7781 Samsung Poland NLP
+--------------- <function GEN_monge_elkan at 0x0AB133B0> , <function lex_sim_jaccard_ngrams at 0x0AB01EF0> 
+
+DATASET	#pares	Pearson r
+2012.input.MSRpar.txt 	750 	0.2023
+2012.input.MSRvid.txt 	750 	-0.0904
+2012.input.OnWN.txt 	750 	0.3526
+2012.input.SMTeuroparl.txt 	459 	0.1529
+2012.input.SMTnews.txt 	399 	0.2963
+2013.input.FNWN.txt 	189 	0.1361
+2013.input.headlines.txt 	750 	0.4645
+2013.input.OnWN.txt 	561 	0.2469
+2013.input.SMT.txt 	750 	0.1921
+2014.input.deft-forum.txt 	450 	0.1933
+2014.input.deft-news.txt 	300 	0.3524
+2014.input.headlines.txt 	750 	0.3953
+2014.input.images.txt 	750 	0.1624
+2014.input.OnWN.txt 	750 	0.3784
+2014.input.tweet-news.txt 	750 	0.533
+2015.input.answers-forums.txt 	375 	0.2488
+2015.input.answers-students.txt 	750 	0.5072
+2015.input.belief.txt 	375 	0.3445
+2015.input.headlines.txt 	750 	0.4497
+2015.input.images.txt 	750 	0.2084
+2016.input.answer-answer.txt 	254 	0.1663
+2016.input.headlines.txt 	249 	0.4558
+2016.input.plagiarism.txt 	230 	0.3429
+2016.input.postediting.txt 	244 	0.4686
+2016.input.question-question.txt 	209 	0.0571
+Promedio ponderado todos	13294 	0.2968
+Promedio ponderado 2012 	3108 	0.1727 	Mejor en SemEval:	0.6773 UKP
+Promedio ponderado 2013 	2250 	0.2919 	Mejor en SemEval:	0.6181 UMBC
+Promedio ponderado 2014 	375
